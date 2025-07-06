@@ -32,7 +32,7 @@ Olá! Eu sou **Naiane Monteiro**, desenvolvedora apaixonada por **galáxias**, *
 ## 💌 Contato
 
 📫 **Email:** [naiane.mtr@gmail.com](mailto:naiane.mtr@gmail.com)  
-🔗 **LinkedIn:** [Seu LinkedIn aqui]  
+🔗 **LinkedIn:** [Naiane Monteiro](https://www.linkedin.com/in/naiane-monteiro-de-oliveira-214260114/)
 🐙 **GitHub:** [github.com/Naimtr-Pro](https://github.com/Naimtr-Pro)
 
 ---
