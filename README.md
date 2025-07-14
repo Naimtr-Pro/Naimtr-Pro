@@ -1,18 +1,19 @@
+# 🪐 Nebula Landing Page
 
-# 🦋✨ Nebula Butterfly ✨🦋
-
-Olá! Eu sou **Naiane Monteiro**, desenvolvedora apaixonada por **galáxias**, **arte digital** e **interfaces encantadoras**. 🚀
+Site cósmico com efeitos em CSS e animações suaves.
 
 ---
 
 ## 🌌 Sobre Mim
+
+Olá! Eu sou **Naiane Monteiro de Oliveira**, desenvolvedora apaixonada por **galáxias**, **arte digital** e **interfaces encantadoras**. 🚀
 
 ✨ Codificando entre estrelas e asas cósmicas.  
 🎨 Crio projetos com cores vibrantes, animações suaves e muito amor por design.
 
 ---
 
-## 🗂️ Projetos em Destaque
+## 🗂️ Projeto em Destaque
 
 | 🌠 Projeto | 💻 Link |
 |----------------|-----------------------------|
@@ -31,11 +32,12 @@ Olá! Eu sou **Naiane Monteiro**, desenvolvedora apaixonada por **galáxias**, *
 
 ## 💌 Contato
 
-📫 **Email:** [naiane.mtr@gmail.com](mailto:naiane.mtr@gmail.com)  
-🔗 **LinkedIn:** [Naiane Monteiro](https://www.linkedin.com/in/naiane-monteiro-de-oliveira-214260114/)
+📫 **Email:** [naiane.monteiro.de.oliveira@gmail.com](mailto:naiane.monteiro.de.oliveira@gmail.com)  
+🔗 **LinkedIn:** [Naiane Monteiro](https://www.linkedin.com/in/naiane-monteiro-de-oliveira-214260114/)  
 🐙 **GitHub:** [github.com/Naimtr-Pro](https://github.com/Naimtr-Pro)
 
 ---
 
 ⭐ *Siga-me para mais projetos encantados!*  
-🦋 *Codificando sonhos entre estrelas e borboletas!*
+🪐 *Explorando o universo com código e design!*
+
