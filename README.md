@@ -4,7 +4,7 @@ Site cósmico com efeitos em CSS e animações suaves.
 
 ---
 
-## 🌌 Sobre Mim
+##  🦋 Sobre Mim 
 
 Olá! Eu sou **Naiane Monteiro de Oliveira**, desenvolvedora apaixonada por **galáxias**, **arte digital** e **interfaces encantadoras**. 🚀
 
